@@ -45,9 +45,6 @@ job_market_final/
 ├── deployment/
 │   └── app.py                            ← Streamlit web app
 │
-├── reports/
-│   └── project_report.pdf               ← final PDF report
-│
 ├── requirements.txt
 ├── README.md
 └── .gitignore
