@@ -21,7 +21,7 @@ streamlit run deployment/app.py
 ## Folder Structure
 
 ```
-job_market_analysis/
+job-market-analysis/
 ├── notebooks/
 │   ├── 01_Data_Ingestion_and_Cleaning.ipynb
 │   ├── 02_EDA_Univariate_Bivariate_Multivariate.ipynb
